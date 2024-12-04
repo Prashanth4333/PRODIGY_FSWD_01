@@ -1,4 +1,4 @@
-#Project - USER AUTHENTICATION SYSTER
+# Project ---- USER AUTHENTICATION SYSTEM ----
 
 # Getting Started with Create React App
 

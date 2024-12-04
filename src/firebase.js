@@ -4,7 +4,7 @@ import { getAuth } from "firebase/auth";
 
 // Your Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAcpj2kY_E_oKZCCiYtYEgHw8cojt1NRqI",
+  apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
   authDomain: "authsystem-bdb47.firebaseapp.com",
   projectId: "authsystem-bdb47",
   storageBucket: "authsystem-bdb47.firebasestorage.app",
